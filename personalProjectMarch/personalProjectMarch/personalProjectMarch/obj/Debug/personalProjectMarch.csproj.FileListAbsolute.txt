@@ -1,0 +1,10 @@
+D:\Assignments\personalProjects\personalProjectMarch\personalProjectMarch\personalProjectMarch\obj\Debug\personalProjectMarch.csproj.AssemblyReference.cache
+D:\Assignments\personalProjects\personalProjectMarch\personalProjectMarch\personalProjectMarch\obj\Debug\personalProjectMarch.csproj.CoreCompileInputs.cache
+D:\Assignments\personalProjects\personalProjectMarch\personalProjectMarch\personalProjectMarch\bin\Debug\personalProjectMarch.exe.config
+D:\Assignments\personalProjects\personalProjectMarch\personalProjectMarch\personalProjectMarch\bin\Debug\personalProjectMarch.exe
+D:\Assignments\personalProjects\personalProjectMarch\personalProjectMarch\personalProjectMarch\bin\Debug\personalProjectMarch.pdb
+D:\Assignments\personalProjects\personalProjectMarch\personalProjectMarch\personalProjectMarch\bin\Debug\Newtonsoft.Json.dll
+D:\Assignments\personalProjects\personalProjectMarch\personalProjectMarch\personalProjectMarch\bin\Debug\Newtonsoft.Json.xml
+D:\Assignments\personalProjects\personalProjectMarch\personalProjectMarch\personalProjectMarch\obj\Debug\personal.A9D3DAD8.Up2Date
+D:\Assignments\personalProjects\personalProjectMarch\personalProjectMarch\personalProjectMarch\obj\Debug\personalProjectMarch.exe
+D:\Assignments\personalProjects\personalProjectMarch\personalProjectMarch\personalProjectMarch\obj\Debug\personalProjectMarch.pdb
